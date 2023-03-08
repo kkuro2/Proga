@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'byrybdyk.me'
-version '1.0-SNAPSHOT'
+version '0.1'
 
 repositories {
     mavenCentral()
@@ -11,7 +11,7 @@ repositories {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'byrybdyk.me.Main'
+        attributes 'Main-Class': 'byrybdyk.me.aplication.Main'
     }
 }
 

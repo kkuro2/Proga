@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="659f0c15-cf8a-4131-9214-05955b58ac54" name="Changes" comment="" />
+    <list default="true" id="5446c4bb-7503-4aba-9f3d-9378bd729531" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -26,18 +29,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab5" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab5" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="lab5" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="laba5" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -46,20 +38,16 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MFaZshsoqcFTxcsVHCAyPnRDY0" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MDs2p3XKWxqcPH3DFrbeMRYCdJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +60,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="lab5 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="laba5 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -95,18 +83,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.lab5 [build]" />
+        <item itemvalue="Gradle.laba5 [build]" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="659f0c15-cf8a-4131-9214-05955b58ac54" name="Changes" comment="" />
-      <created>1677365844374</created>
+      <changelist id="5446c4bb-7503-4aba-9f3d-9378bd729531" name="Changes" comment="" />
+      <created>1677313285658</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677365844374</updated>
+      <updated>1677313285658</updated>
     </task>
     <servers />
   </component>
